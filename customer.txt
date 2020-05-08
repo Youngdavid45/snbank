@@ -1,0 +1,5 @@
+Account name is: farinde david
+Opening balance: 10000
+Account type: savings
+Account email: farindedavid@gmail.com
+Your account number is: 1106588900
